@@ -1,0 +1,7 @@
+{
+  "name": "NutriBuddy",
+  "description": "An AI-powered web application designed to help 5th-grade students learn about and practice a healthy diet in a fun and interactive way.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
